@@ -16,7 +16,7 @@ export default function Hero() {
             </div>
           </div>
 
-          <div className="flex-1 text-center md:text-left">
+          <div className="flex-1 text-center md:text-center">
             <h1 className="text-5xl md:text-6xl font-bold mb-4 bg-gradient-to-r from-blue-400 to-purple-400 bg-clip-text text-transparent">
               Alomgir Hossen
             </h1>
