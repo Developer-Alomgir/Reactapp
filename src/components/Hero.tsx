@@ -10,7 +10,8 @@ export default function Hero() {
           <div className="flex-shrink-0">
             <div className="w-48 h-48 rounded-full bg-gradient-to-br from-blue-400 to-purple-600 p-1 shadow-2xl">
               <div className="w-full h-full rounded-full bg-slate-800 flex items-center justify-center text-6xl font-bold">
-                AH
+                FrontEnd
+                Software Engineer
               </div>
             </div>
           </div>
