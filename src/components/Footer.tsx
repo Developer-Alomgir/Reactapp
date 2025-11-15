@@ -6,7 +6,7 @@ export default function Footer() {
           © {new Date().getFullYear()} Development By:: Alomgir Hossen. All rights reserved.
         </p>
         <p className="text-slate-500 mt-2 text-sm">
-          Next.Js | React.Js
+          Vite Framework
         </p>
       </div>
     </footer>
